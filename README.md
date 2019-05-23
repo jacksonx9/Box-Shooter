@@ -1,6 +1,6 @@
 ## Box Shooter
 
-![alt text](https://github.com/jacksonx9/Box-Shooter/Photos/EndGamePhoto.png)
+![alt text](Photos/EndGamePhoto.png)
 
 #### Rules
 
